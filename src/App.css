@@ -1,0 +1,38 @@
+
+.heading{
+  width: 100%;
+  height: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+.container{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading h1{
+font-size: 41px;
+font-weight: 700;
+}
+
+.heading h2{
+font-weight: 300;
+margin-bottom: 30px;
+}
+
+.cardscontainer{
+  width: 72%;
+  height: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

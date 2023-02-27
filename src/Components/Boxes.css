@@ -1,0 +1,11 @@
+
+.Boxes{
+    width: 100px;
+    height: 113px;
+    display: flex;
+    border: 1px white solid;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
